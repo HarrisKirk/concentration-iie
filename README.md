@@ -8,4 +8,5 @@ Build Steps
 
 
 Resources
-[buildozer](https://buildozer.readthedocs.io/en/latest/)
+1. [buildozer](https://buildozer.readthedocs.io/en/latest/)
+1. [kivy](https://kivy.org/docs/)
